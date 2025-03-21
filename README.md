@@ -12,7 +12,7 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 
 
 
-Hareware framework
+\nHareware framework
 <div align="center">
   <img src="images/Hareware framework.png" style="width: 500px; height: auto>
 </div>
@@ -23,3 +23,6 @@ Controller diagram
 <div align="center">
   <img src="images/Control diagram.png" style="width: 500px; height: auto>
 </div>
+
+
+
