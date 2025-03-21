@@ -11,13 +11,13 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 </div>
 
 
-Hareware framework
+Hareware framework:
 <div align="center">
   <img src="images/Hareware framework.png" style="width: 500px; height: auto>
 </div>
 
 
-Controller diagram
+Controller diagram:
 <div align="center">
   <img src="images/Control diagram.png" style="width: 500px; height: auto>
 </div>
