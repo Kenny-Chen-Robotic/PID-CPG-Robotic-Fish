@@ -18,5 +18,5 @@ Hareware framework
 
 Controller diagram
 <div align="center">
-  <img src="images/Hareware framework.png">
+  <img src="images/Control diagram.png">
 </div>
