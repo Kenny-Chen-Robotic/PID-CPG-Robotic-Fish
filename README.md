@@ -3,4 +3,5 @@ This repository is about the algorithm framework of wire-driven robotic fish, wh
 Having fun with robotic :)
 
 Relevent Links: https://www.sciencedirect.com/science/article/pii/S002980182300817X
+
 DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
