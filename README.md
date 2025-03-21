@@ -8,5 +8,5 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 
 
 <div align="center">
-  <img src="images/Mechanical Design.png">
+  <img src="images/Prototype.png">
 </div>
