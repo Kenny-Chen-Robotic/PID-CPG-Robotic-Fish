@@ -126,9 +126,8 @@ class Gyro(object):
                 self.angle_z -= 2 * self.k_angle
             return (self.angle_z)
 
-# ----------------- 优化后的数字判断函数 -----------------
+# ----------------- 字符串处理 -----------------
 def numberjudge(data):
-    """优化后的字符发送函数"""
     char_map = {
         '-': b'-', '.': b'.',
         '0': b'0', '1': b'1', '2': b'2',
