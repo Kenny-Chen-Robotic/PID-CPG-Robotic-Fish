@@ -15,11 +15,19 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 
 <br>  <!-- 这是空行间隔 -->
 
+<div align="center">
+  <img src="images/Cruising.png" alt="Cruising" style="width: 650px; height: auto;"/>
+
+  *Figure2: Cruising*
+</div>
+
+
+<br>  <!-- 这是空行间隔 -->
 
 <div align="center">
   <img src="images/Hareware_framework.png" alt="Hardware Framework" style="width: 650px; height: auto;"/>
   
-  *Figure2: Hardware Framework*
+  *Figure3: Hardware Framework*
 </div>
 
 
@@ -29,7 +37,7 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 <div align="center">
   <img src="images/Control_diagram.png" alt="Control diagram" style="width: 650px; height: auto;"/>
   
-  *Figure3: Control diagram*
+  *Figure4: Control diagram*
 </div>
 
 # Advanced research
