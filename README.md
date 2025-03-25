@@ -7,7 +7,7 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 
 
 <div align="center">
-  <img src="images/3D swimming.png" style="width: 300px; height: auto>
+  <img src="images/3D swimming.png" style="width: 500px; height: auto>
 </div>
 
 
