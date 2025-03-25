@@ -6,7 +6,7 @@ Relevent Links: https://www.sciencedirect.com/science/article/pii/S0029801823008
 DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 
 <div align="center">
-  <img src="images/3D swimming.png" alt="3D Swimming" style="width: 800px; height: auto;"/>
+  <img src="images/3D_swimming.png" alt="3D Swimming" style="width: 800px; height: auto;"/>
   
   *Figure1: 3D swimming*
 </div>
@@ -14,12 +14,14 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
-  <img src="images/Hareware framework.png" alt="Hardware Framework" style="width: 500px; height: auto;"/>
+  <img src="images/Hareware_framework.png" alt="Hardware Framework" style="width: 500px; height: auto;"/>
   
   *Figure2: Hardware Framework*
 </div>
 
 
 <div align="center">
-  <img src="images/Control_diagram.png" style="width: 650px; height: auto;">
+  <img src="images/Control_diagram.png" alt="Control diagram" style="width: 500px; height: auto;"/>
+  
+  *Figure3: Control diagram*
 </div>
