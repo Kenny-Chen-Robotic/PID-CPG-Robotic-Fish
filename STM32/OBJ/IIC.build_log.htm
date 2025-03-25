@@ -1,0 +1,84 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.35.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: blank 523515902@qq.com, 12, LIC=VGXG8-32GPV-JJI6S-LXT1E-I8FH5-LVFTH
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.35.0.2
+Toolchain Path:  D:\Keil5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.35.0.2
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.9.0
+Dialog DLL:      TCM.DLL V1.53.0.0
+ 
+<h2>Project:</h2>
+C:\Users\52351\Desktop\STM32程序\指令控制舵机\舵机控制\USER\IIC.uvprojx
+Project File Date:  04/02/2022
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\Keil5\ARM\ARMCC\Bin'
+Rebuild target 'Target 1'
+assembling startup_stm32f10x_hd.s...
+compiling core_cm3.c...
+compiling stm32f10x_it.c...
+compiling system_stm32f10x.c...
+compiling stm32f10x_gpio.c...
+compiling usart.c...
+compiling delay.c...
+compiling USART2.c...
+..\SYSTEM\USART2\USART2.c(15): warning:  #1295-D: Deprecated declaration TIM2_PWM_Init - give arg types
+  extern void TIM2_PWM_Init();//extern表示该函数在其他文件定义过，可以取代#include "xxx.h"
+..\SYSTEM\USART2\USART2.c: 1 warning, 0 errors
+compiling misc.c...
+compiling myiic.c...
+compiling stm32f10x_rcc.c...
+compiling MS5837.C...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_dac.c...
+compiling main.c...
+main.c(104): warning:  #177-D: variable "data"  was declared but never referenced
+    uint8_t data;
+main.c(105): warning:  #177-D: variable "j"  was declared but never referenced
+  	int i=0,j=0,kb,km,t=0,action=0,buffer=0;
+main.c(105): warning:  #177-D: variable "t"  was declared but never referenced
+  	int i=0,j=0,kb,km,t=0,action=0,buffer=0;
+main.c(106): warning:  #550-D: variable "turn_ratio"  was set but never used
+  	float turn_ratio = 0, keep = 0;
+main.c(106): warning:  #550-D: variable "keep"  was set but never used
+  	float turn_ratio = 0, keep = 0;
+main.c(108): warning:  #550-D: variable "alpha2"  was set but never used
+  	double B,B1,B2,M,M1,M2,f,f1,f2,R,R1,T,alpha=0,alpha1=0,alpha2=0,beta1=0,beta2=0;
+main.c(108): warning:  #550-D: variable "beta1"  was set but never used
+  	double B,B1,B2,M,M1,M2,f,f1,f2,R,R1,T,alpha=0,alpha1=0,alpha2=0,beta1=0,beta2=0;
+main.c: 7 warnings, 0 errors
+compiling sys.c...
+compiling stm32f10x_tim.c...
+linking...
+Program Size: Code=27920 RO-data=944 RW-data=84 ZI-data=2100  
+FromELF: creating hex file...
+"..\OBJ\IIC.axf" - 0 Error(s), 8 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.4.0.pack
+                Keil.STM32F1xx_DFP.2.4.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  D:\Keil5\Keil\STM32F1xx_DFP\2.4.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>
