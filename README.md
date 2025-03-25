@@ -1,5 +1,5 @@
 # Autonomous Robotic Fish
-This repository is about the algorithm framework of a wire-driven robotic fish, which contains basic CPG module coded with C codes (implementing in STM32 micro-controller) and orientation module and trajectory generator (e.g. Bezier curve) are coded with Python (implementing in Raspberry Pi 4B). The algorithm is robust and applied for scientific experiment in real world directly, thus hareware connection is indispendable at the very beginning. Moreover, this desperate design offers a convenient hardware platform for validating several AI agent algorithm by substituting PID algorithm. 
+This repository is about the algorithm framework of a wire-driven robotic fish, containing a basic CPG module which is coded with C (implementing in STM32 micro-controller) and an closed-loop orientation module combining with trajectory generator (e.g. Bezier curve) being coded with Python (implementing in Raspberry Pi 4B). The algorithm is robust and applied for scientific experiment in real world directly, thus hareware connection is indispendable at the very beginning. Moreover, this desperate design offers a convenient hardware platform for validating several AI agent algorithm by substituting PID algorithm. 
 
 Relevent Link: https://www.sciencedirect.com/science/article/pii/S002980182300817X.
 
