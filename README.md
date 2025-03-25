@@ -7,10 +7,15 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 
 
 <div align="center">
-  <img src="images/3D swimming.png" style="width: 800px; height: auto>
+  <img src="images/3D_swimming.png" style="width: 800px; height: auto;">
 </div>
 
 
 <div align="center">
-  <img src="images/Hareware framework.png" style="width: 500px; height: auto>
+  <img src="images/Hareware_framework.png" style="width: 500px; height: auto;">
+</div>
+
+
+<div align="center">
+  <img src="images/Control_diagram.png" style="width: 500px; height: auto;">
 </div>
