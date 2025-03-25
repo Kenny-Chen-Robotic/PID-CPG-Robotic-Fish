@@ -16,7 +16,7 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 
 
 <div align="center">
-  <img src="images/Hareware_framework.png" alt="Hardware Framework" style="width: 500px; height: auto;"/>
+  <img src="images/Hareware_framework.png" alt="Hardware Framework" style="width: 650px; height: auto;"/>
   
   *Figure2: Hardware Framework*
 </div>
@@ -26,7 +26,10 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 
 
 <div align="center">
-  <img src="images/Control_diagram.png" alt="Control diagram" style="width: 500px; height: auto;"/>
+  <img src="images/Control_diagram.png" alt="Control diagram" style="width: 650px; height: auto;"/>
   
   *Figure3: Control diagram*
 </div>
+
+
+Advanced work: DRL Agent robotic / LLM controller / Sim2real with ROS & Gazebo
