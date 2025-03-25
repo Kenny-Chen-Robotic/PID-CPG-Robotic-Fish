@@ -6,7 +6,6 @@ Relevent Links: https://www.sciencedirect.com/science/article/pii/S0029801823008
 DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 
 # Prototype introduction
-<br>  <!-- 这是空行间隔 -->
 <div align="center">
   <img src="images/3D_swimming.png" alt="3D Swimming" style="width: 800px; height: auto;"/>
 
@@ -33,5 +32,7 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
   *Figure3: Control diagram*
 </div>
 
-# Advance research
+# Advanced research
 DRL Agent robotic / LLM controller / Sim2real with ROS & Gazebo
+
+<br>  <!-- 这是空行间隔 -->
