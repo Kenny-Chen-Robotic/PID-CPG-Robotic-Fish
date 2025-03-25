@@ -11,13 +11,18 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
   *Figure1: 3D swimming*
 </div>
 
+
 <br>  <!-- 这是空行间隔 -->
+
 
 <div align="center">
   <img src="images/Hareware_framework.png" alt="Hardware Framework" style="width: 500px; height: auto;"/>
   
   *Figure2: Hardware Framework*
 </div>
+
+
+<br>  <!-- 这是空行间隔 -->
 
 
 <div align="center">
