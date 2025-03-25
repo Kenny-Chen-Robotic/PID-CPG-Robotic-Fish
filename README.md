@@ -41,6 +41,6 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 </div>
 
 # Advanced research
-DRL Agent robotic / LLM controller / Sim2real with ROS & Gazebo
+DRL Agent robotic / LLM controller / Sim2real with ROS & Gazebo.
 
 <br>  <!-- 这是空行间隔 -->
