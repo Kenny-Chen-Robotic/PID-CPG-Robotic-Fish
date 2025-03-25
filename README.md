@@ -16,7 +16,7 @@ DOI: https://doi.org/10.1016/j.oceaneng.2023.114433
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
-  <img src="images/Cruising.png" alt="Cruising" style="width: 650px; height: auto;"/>
+  <img src="images/Cruising.jpg" alt="Cruising" style="width: 650px; height: auto;"/>
 
   *Figure2: Cruising*
 </div>
